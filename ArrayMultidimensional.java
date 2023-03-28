@@ -1,4 +1,4 @@
-public class MultidimensionalArray {
+public class ArrayMultidimensional {
   public static void main(String[] args){
     // multidimensional array is an array of arrays.
     int[][] myNumbers = { {1, 2, 3, 4}, {5, 6, 7} };
