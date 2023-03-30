@@ -1,4 +1,4 @@
-public class ClassesObjects {
+public class Main {
   int numX = 50;
   int numY = 100;
 
