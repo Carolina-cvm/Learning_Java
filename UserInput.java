@@ -8,6 +8,6 @@ class Main {
     String nome = obj.nextLine();
     int age = obj.nextInt();
 
-    System.out.println("Olá" + nome + "tudo bem?");  
+    System.out.println("Olá," + nome + "Tudo bem");  
   }
 }
