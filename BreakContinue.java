@@ -1,7 +1,7 @@
 public class BreakContinue{
   public static void main(String[] args){
 
-    // BREAK  stops the loop when i is equal to 4
+    // BREAK stops the loop when i is equal to 4
     for (int i = 0; i < 10; i++) {
       if (i == 4) {
         break;
