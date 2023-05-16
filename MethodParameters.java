@@ -14,7 +14,7 @@ public class MethodParameters {
   public static void main(String[] args) {
     nomeCompleto("Maria");
     nomeCompleto("Joao");
-    nomeCompleto("Luis");
+    nomeCompleto("Lucas");
     System.out.println(contaSoma(5, 10));
     System.out.println(contaSubtracao(10));
   }
